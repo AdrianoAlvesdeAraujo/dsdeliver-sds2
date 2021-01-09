@@ -5,6 +5,7 @@ import {ReactComponent as MainImage} from "./main.svg"
 
 function Home(){
     return(
+        <>
         <div className="home-container">
             <div className="home-content">
                 <div className="home_actions">
@@ -17,6 +18,7 @@ function Home(){
                 </div>
             </div>
         </div>
+        </>
             
             )
 }
