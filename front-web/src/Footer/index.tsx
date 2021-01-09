@@ -19,8 +19,6 @@ function Footer(){
                 <a href="https://www.instagram.com/devsuperior.ig/" target="_new">
                     <InstagramIcon/>
                     </a>
-
-
             </div>
         </footer>
             
