@@ -1,27 +1,12 @@
-# Sistema de Registro e Entrega de Pedidos
+- # Order Registration and Delivery System
 
-- O projeto consiste em um sistema de registro e entrega;
+  - The project consists of a registration and delivery system;
+  - Used Java with Spring Boot on the backend with deployment on Heroku;
+  - Used ReactJS with Typescript on the frontend with deployment on Netlify;
 
-- Utilizado Java com Spring Boot no backend com implantação no Heroku;
+- web page:  https://dsdeliver-adrianoaaraujo.netlify.app;
 
-- Utilizado ReactJS com Typescript no frontend com implantação no Netlify;
+  - A customer accesses the web platform at the address above and with a simple click on the button "MAKE ORDER" he is taken to the order page and clicks on the dish he wants.
+  - To finalize your order, on the same page, the customer types the delivery address in the search filter where the exact location will appear on the map, and this information will be recorded and will allow the company to know the delivery location. In addition, in the lower left corner, the customer can know the quantity of dishes chosen and the total value of the order. Finally, you can click on the "MAKE ORDER" button in the lower right corner;
+  - After placing the order, the customer receives the order confirmation sent successfully and beside the message the order number is informed: "Order sent successfully! Nº 1001";
 
-- página web:  https://dsdeliver-adrianoaaraujo.netlify.app;
-
-  
-
-  ![image-20210110212921678](C:\Users\adria\AppData\Roaming\Typora\typora-user-images\image-20210110212921678.png)
-
-  
-
-  Um cliente acessa a plataforma web no endereço acima e com um simples clique no botão "FAZER PEDIDO" ele é levado a página de pedidos abaixo e clica no prato que deseja. Conforme abaixo, está selecionado os pratos **"Macarrão Espaguete"** e **"Macarrão Fusilli"**:
-
-  ![image-20210110213318773](C:\Users\adria\AppData\Roaming\Typora\typora-user-images\image-20210110213318773.png)
-
-  Para finalizar seu pedido, na mesma página abaixo, o cliente digita o endereço de entrega no filtro de busca onde aparecerá no mapa a localização exata, e essa informação será gravado e servirá para que a empresa possa saber o local de entrega. Além disso, no canto inferior esquerdo, o cliente pode saber a quantidade de pratos escolhidos e o valor total do pedido. Por fim, pode clicar no canto inferior direito no botão "FAZER PEDIDO":
-
-  ![image-20210110214336945](C:\Users\adria\AppData\Roaming\Typora\typora-user-images\image-20210110214336945.png)
-
-Após realizar o pedido, o cliente saberá se o pedido foi feito com sucesso com uma mensagem recebida conforme vemos abaixo:
-
-![image-20210110214809392](C:\Users\adria\AppData\Roaming\Typora\typora-user-images\image-20210110214809392.png)
